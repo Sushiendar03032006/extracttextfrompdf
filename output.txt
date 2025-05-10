@@ -1,0 +1,43 @@
+4/30/25, 10:37 PM Module1/Conditional Statements in Python: Even or Odd Checker.md at main · Sushiendar03032006/Module1
+
+Sushiendar03032006 /
+Module1
+Code Pull requests Actions Projects Wiki Security Insights
+
+Module1 / Conditional Statements in Python: Even or Odd Checker.md
+
+Sushiendar03032006 Update Conditional Statements in Python: Even or Odd Checker.md
+05270fe · 19 minutes ago
+
+29 lines (22 loc) · 769 Bytes
+
+Preview Code Blame Raw
+
+Conditional Statements in Python: Even or
+Odd Checker
+🎯 Aim
+To write a Python program to check whether the given number is even or odd using
+if...else statements.
+🧠 Algorithm
+1. Get an input from the user.
+2. Convert the input to an integer and store it in a variable a .
+3. Use the modulo operator % to check if a % 2 == 0 .
+If true, print "EVEN" .
+Else, print "ODD" .
+4. End the program.
+🧾 Program:
+
+a=eval(input())
+if a%2==0:
+print("EVEN")
+else:
+print("ODD")
+
+https://github.com/Sushiendar03032006/Module1/blob/main/Conditional Statements in Python%3A Even or Odd Checker.md 1/24/30/25, 10:37 PM Module1/Conditional Statements in Python: Even or Odd Checker.md at main · Sushiendar03032006/Module1
+Output:
+
+Result:
+Python program to check whether the given number is even or odd using if...else
+statements is succesfully executed.
+
+https://github.com/Sushiendar03032006/Module1/blob/main/Conditional Statements in Python%3A Even or Odd Checker.md 2/2
